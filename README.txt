@@ -8,6 +8,3 @@ I used a max-flow/min-cut algorithm Ford Fulkerson and BFS find augmenting paths
 
 Results: 
 
-![test](https://user-images.githubusercontent.com/91835033/165175348-4ade7049-f7e7-4ebd-8848-d395d58096c8.png) --> ![test_output](https://user-images.githubusercontent.com/91835033/165175347-6d417349-d786-454c-8d25-afccc0d6e1ce.png)
-
-![test2](https://user-images.githubusercontent.com/91835033/165175362-98c0752f-977b-4b71-a555-cad0d14034fe.png) --> ![test2_output](https://user-images.githubusercontent.com/91835033/165175361-461c0391-8cc3-4671-a3e0-c0b896b233c4.png)
