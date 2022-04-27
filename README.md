@@ -8,6 +8,8 @@ The general idea of the implementation is building a graph whose vertices are ov
 
 I used a max-flow/min-cut algorithm Ford Fulkerson and BFS find augmenting paths and calculate maximum flow for the original graph using the residual graph.
 
+Submitted as an .ipynb file
+
 ## Results
 
 ![test](https://user-images.githubusercontent.com/91835033/165178132-f80948c1-703c-4de4-88e4-6acae5e3dfc9.png)
@@ -19,7 +21,6 @@ The resulting texture (to the right) is synthesized at twice the size of the ori
 ![test2](https://user-images.githubusercontent.com/91835033/165178135-8e4bcb3f-6f48-4158-8061-d56e2bb29e91.png)
 
 ![test2_output](https://user-images.githubusercontent.com/91835033/165178136-6b164c43-9401-48b1-b6a2-815a7ac9fc37.png)
-
 
 ## Resources:
 https://brilliant.org/wiki/ford-fulkerson-algorithm/
