@@ -8,7 +8,6 @@ The general idea of the implementation is building a graph whose vertices are ov
 
 I used a max-flow/min-cut algorithm Ford Fulkerson and BFS find augmenting paths and calculate maximum flow for the original graph using the residual graph.
 
-Submitted as an .ipynb file
 
 ## Results
 
